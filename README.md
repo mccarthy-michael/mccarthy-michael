@@ -30,7 +30,6 @@ Here are some of the technologies I'm proficient in:
 You can find me on:
 
 -   **LinkedIn:** [Michael McCarthy](https://www.linkedin.com/in/michael-mccarthy-8028a2328/)
--   **Personal Website:** [mccarthy-michael.github.io](https://mccarthy-michael.github.io)
 
 ---
 
